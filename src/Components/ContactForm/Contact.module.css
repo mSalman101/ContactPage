@@ -1,0 +1,58 @@
+.container {
+  display: flex;
+  height: 500px;
+  max-width: 100%;
+  margin: 0 auto;
+  margin-top: 0;
+  padding-top: 12px;
+  align-items: end;
+}
+
+.top_btn {
+  display: flex;
+  gap: 30px;
+  /* max-width: 472px;
+  max-height: 44px; */
+}
+
+.contact_form {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /*abhi test kiya hu*/
+  gap: 18px;
+}
+
+.contact_form form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding-bottom: 18px;
+}
+
+.form_control {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  position: relative;
+}
+
+.form_control input {
+  height: 38px;
+  padding: 0 8px;
+}
+
+.form_control label {
+  font-size: 13px;
+  position: absolute;
+  top: -12px;
+  left: 10px;
+  background-color: white;
+  padding: 0 9px;
+}
+
+form Button {
+  width: 50%;
+  display: flex;
+  margin-left: auto;
+}

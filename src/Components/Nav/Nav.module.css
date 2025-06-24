@@ -1,0 +1,26 @@
+.Nav {
+  margin-top: 0px;
+  padding: 0 8px;
+  display: flex;
+  height: 70px;
+  width: auto;
+  align-items: center;
+  list-style: none;
+  justify-content: space-between;
+  background-color: rgb(186, 186, 186);
+  border-radius: 5px;
+}
+
+.Nav ul {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+  font-size: 22px;
+  font-weight: 500;
+}
+.Nav img {
+  margin-top: 2px;
+  height: 65px;
+  width: 66px;
+  border-radius: 50%;
+}

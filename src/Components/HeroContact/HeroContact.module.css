@@ -1,0 +1,21 @@
+.contact_section {
+  max-width: 1000px;
+  margin: 0 auto;
+  height: 1rem;
+}
+.HeroContact {
+  width: 100%;
+}
+
+.HeroContact h1 {
+  font-size: 48px;
+  font-weight: 700;
+  width: 315px;
+
+  margin-top: 0.7rem;
+}
+
+.HeroContact p {
+  width: 975px;
+  margin-top: 6px;
+}
